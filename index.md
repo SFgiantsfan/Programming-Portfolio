@@ -5,8 +5,7 @@ Computer Programming 1 which focused on Processing and Java.
 
 ### Space Game
 OOP solution for a collison based 2d space shooter.
-* Screen Capture of Running Application
-* ![SpaceGame](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/SpaceGame2022.png?raw=true)
+![SpaceGame](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/SpaceGame2022.png?raw=true)
 * Source Code for Application
 
 ### Calculator 

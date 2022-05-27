@@ -10,15 +10,15 @@ OOP solution for a collison based 2d space shooter with images.
 ![SpaceGame](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/SpaceGame2022.png?raw=true)
 * [Source Code for space game.](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/SpaceGame.zip)
 * [Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/SpaceGamemacos-x86_64)
-[Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/SpaceGamewindows-amd64)
+* [Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/SpaceGamewindows-amd64)
 
 ### Calculator 
 OOP solution for a graphics based calculator.
 
 ![Calculator](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/Calculator2022.png?raw=true)
 * [Source Code for the calculator.](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/Calculator.zip)
-[Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/Calculatormacos-x86_64)
-[Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/Calculator.exe)
+* [Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/Calculatormacos-x86_64)
+* [Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/Calculator.exe)
 
 ### Screen Saver
 OOP solution for a screensaver that draws lines in different colors. If it goes off the screeen it goes to a new random spot on the screen.

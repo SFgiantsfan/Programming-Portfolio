@@ -21,7 +21,7 @@ OOP solution for a screensaver that draws lines in different colors. If it goes 
 
 ### Etch-A-Sketch
 OOP solution for a game that lets you draw thigs by using the arrow keys or WASD. When you press a key, it draws a line.
-![ScreenSaver]()
+![ScreenSaver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/Etch-A-SketchScreenShot.png?raw=true)
 * [Source Code for the Screen Saver]()
 
 ## Java Projects

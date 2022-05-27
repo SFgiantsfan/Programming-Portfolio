@@ -24,15 +24,15 @@ OOP solution for a graphics based calculator.
 OOP solution for a screensaver that draws lines in different colors. If it goes off the screeen it goes to a new random spot on the screen.
 ![ScreenSaver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/ScreenSaverScreenshot.png?raw=true)
 * [Source Code for the Screen Saver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/ScreenSaver.zip)
-[Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/ScreenSavermacos-x86_64)
-[Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/ScreenSaver.exe)
+* [Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/ScreenSavermacos-x86_64)
+* [Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/ScreenSaver.exe)
 
 ### Etch-A-Sketch
 OOP solution for a game that lets you draw thigs by using the arrow keys or WASD. When you press a key, it draws a line.
 ![ScreenSaver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/Etch-A-SketchScreenShotNew.png?raw=true)
 * [Source Code for the Screen Saver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/Etch_A_Sketch.zip)
-[Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/Etch_A_Sketch.app/Contents)
-[Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/Etch_A_Sketch.exe)
+* [Mac](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/tree/gh-pages/app/Etch_A_Sketch.app/Contents)
+* [Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/Etch_A_Sketch.exe)
 
 ## Java Projects
 

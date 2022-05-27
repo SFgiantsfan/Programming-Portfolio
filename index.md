@@ -1,5 +1,5 @@
 # Ethan Reynolds Programming Portfolio 2022
-[My Email!](mailto: ereynolds2364@gmail.com)
+[My Email!](MailTo: ereynolds2364@gmail.com)
 Computer Programming 1 which focused on Processing and Java.
 
 ## Processing Projects

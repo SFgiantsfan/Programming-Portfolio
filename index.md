@@ -3,7 +3,7 @@
 
 Computer Programming 1 which focused on Processing and Java.
 
-I have certified in Java.
+I have certified in Java, and Exploring Computer Science.
 
 ## Processing Projects
 

@@ -3,6 +3,8 @@
 
 Computer Programming 1 which focused on Processing and Java.
 
+I have certified in Java.
+
 ## Processing Projects
 
 ### Space Game

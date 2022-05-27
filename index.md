@@ -33,5 +33,5 @@ Command line application that lets you input the information for a 3D shape and 
 
 ### Number Guessing Game
 Command line application that lets you guess a random number. It gives you hits based on your guesses and helps you find the number.
-![ScreenSaver]()
+![ScreenSaver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/NumeberGuessingGameScreenShot.png?raw=true)
 * [Source Code for the Screen Saver]()

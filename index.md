@@ -27,3 +27,6 @@ OOP solution for a game that lets you draw thigs by using the arrow keys or WASD
 ## Java Projects
 
 ### Shape Tester
+Command line application that lets you input the information for a 3D shape and then it gives you the volume and surface area for the shape. The three shapes it does are box, sphere, and pyramids.
+![ScreenSaver]()
+* [Source Code for the Screen Saver]()

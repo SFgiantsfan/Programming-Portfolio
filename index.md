@@ -1,9 +1,11 @@
-# Ethan Reynolds Programming Portfolio 2022
+# Ethan Reynolds Programming Portfolio
 [My Email](mailto:ereynolds2364@gmail.com)
 
 Computer Programming 1 which focused on Processing and Java.
 
 I have certified in Java, and Exploring Computer Science.
+
+# Year 1
 
 ## Processing Projects
 
@@ -47,3 +49,6 @@ Command line application that lets you input the information for a 3D shape and 
 Command line application that lets you guess a random number. It gives you hits based on your guesses and helps you find the number.
 ![ScreenSaver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/NumeberGuessingGameScreenShot.png?raw=true)
 * [Source Code for the Screen Saver](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/NumberGuessingGame.zip)
+
+# Year 2
+This app has two different functions: Stadium Tracker, and Team Name Guesser. In the stadium tracker you can store information about MLB stadiums you have been to. In the Team Name Guesser you get to play a game and guess an MLB team based on information displayed.

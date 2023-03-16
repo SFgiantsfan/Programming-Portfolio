@@ -56,5 +56,5 @@ This app has two different functions: Stadium Tracker, and Team Name Guesser. In
 ![Start Screen](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/MLB%20App%20Start%20Screen.PNG?raw=true)
 ![Team Name Guesser](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/Team%20Name%20Guesser.PNG?raw=true)
 ![Stadium Tracker](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/Images/Stadium%20Tracker.PNG?raw=true)
-* [Source Code for the app] (https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/Individual_Project.zip)
-* [Windows] (https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/Individual_Project.exe)
+* [Source Code for the app](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/src/Individual_Project.zip)
+* [Windows](https://github.com/SFgiantsfan/Programming-Portfolio-2021-2022/blob/gh-pages/app/Individual_Project.exe)

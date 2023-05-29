@@ -84,7 +84,9 @@ This is a command line app that calculates the volume and surface area of three 
 ### IO Challenge
 This app reads from an input file, prints it to the console, and the saves it to an output file.
 
+##### Before Running:
 ![IO Before](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/IOBefore.png?raw=true)
+##### After Running:
 ![IO After](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/IOAfter.png?raw=true)
 * [Source Code](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/src/IOChallenge.zip)
 

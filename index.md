@@ -62,7 +62,7 @@ Text-based RPG adventure game. You are a hacker in a futuristic city and you nee
 * Group Members: Henry Dunn, Ethan Reynolds, Alice Leppert, Mike Torianyk, Soonhwi Kwon
 * [Link to Group Repository](https://github.com/ArtAcapella/RPG_Group_Project)
 
-![BREACH](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/BREACH.png)
+![BREACH](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/BREACH.png?raw=true)
 
 ## Individual Projects
 ### MLB Stadium Tracker & Game!
@@ -78,25 +78,25 @@ This app has two different functions: Stadium Tracker, and Team Name Guesser. In
 ### Shape Tester
 This is a command line app that calculates the volume and surface area of three different shapes. It calculates these things for cubes, spheres, and prisms. When you start the app it asks you for the required information and then calculates the volume and surface area. For example, on a cube, it will ask for the length, width, and height.
 
-![Shape Tester](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/ShapeTester.png)
+![Shape Tester](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/ShapeTester.png?raw=true)
 * [Source Code](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/src/ShapeTester.zip)
 
 ### IO Challenge
 This app reads from an input file, prints it to the console, and the saves it to an output file.
 
-![IO Before](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/IOBefore.png)
-![IO After](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/IOAfter.png)
+![IO Before](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/IOBefore.png?raw=true)
+![IO After](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/IOAfter.png?raw=true)
 * [Source Code](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/src/IOChallenge.zip)
 
 ### Code a Cipher
 This cipher takes a message from an input file and encrypts it. The encryption moves the letters 5 down the alphabet and then puts the new words backwards. For example, the word "happy" would become duufm. It then saves the encrypted word to a different file.
 * My partner for this project was Soonhwi Kwon.
 
-![Cipher](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/Cipher.png)
+![Cipher](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/Cipher.png?raw=true)
 * [Source Code](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/src/Cipher-Project.zip)
 
 ### Multidimensional Arrays (Multiplication Table)
 This app uses multidimensional arrays and a for loop to print a multiplication table to the console.
 
-![Table](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/MultTable.png)
+![Table](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/Images/MultTable.png?raw=true)
 * [Source Code](https://github.com/SFgiantsfan/Programming-Portfolio/blob/gh-pages/src/Multidemensional-Arrays.zip)
